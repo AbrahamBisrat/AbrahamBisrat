@@ -6,11 +6,4 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahammehari&theme=dark&show_icons=true)
-<!--
-**AbrahamMehari/AbrahamMehari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
+- ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahammehari&theme=dark&show_icons=true)
