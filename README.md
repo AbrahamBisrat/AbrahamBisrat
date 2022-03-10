@@ -8,5 +8,4 @@
 - 📫 How to reach me: ...
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abrahammehari&show_icons=true&theme=gotham" alt="AbrahamMehari" />
-
-![Snake animation](https://github.com/abrahammehari/abrahammehari/blob/output/github-contribution-grid-snake.svg)
+  
