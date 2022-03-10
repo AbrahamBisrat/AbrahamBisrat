@@ -7,4 +7,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahammehari&theme=prussian&show_icons=true)
-![Snake animation](https://github.com/AbrahamMehari/AbrahamMehari/blob/output/github-contribution-grid-snake.svg)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abrahammehari&show_icons=true&theme=gotham" alt="AbrahamMehari" />
+
