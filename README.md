@@ -9,3 +9,9 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abrahammehari&show_icons=true&theme=gotham" alt="AbrahamMehari" />
   
+   <p align="center">
+    <a href="https://github.com/sagarnepali/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagarnepali&layout=compact" />
+    </a>
+  </p>
+
