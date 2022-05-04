@@ -15,3 +15,5 @@
 <img height="150px" />
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abrahammehari&bg_color=144a19&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
