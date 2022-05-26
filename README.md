@@ -15,10 +15,10 @@
   <a href="https://www.linkedin.com/in/abisrat/" target="_blank"><img  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
     <a href="https://stackoverflow.com/users/17514621/abraham-bisrat" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" ></a>
   
-  <a href="https://stackoverflow.com/users/17514621/abraham-bisrat" target="_blank">
+<!--   <a href="https://stackoverflow.com/users/17514621/abraham-bisrat" target="_blank">
 <img alt="StackOverflow"
 src="https://stackoverflow-badge.vercel.app/?userID=17514621"/>
-</a>
+</a> -->
 <!--   </p> -->
 </div>
 
