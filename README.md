@@ -7,8 +7,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
   
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abrahammehari.abrahammehari" />
-<img align="right" src="https://img.shields.io/github/followers/abrahammehari?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abrahambisrat.abrahambisrat" />
+<img align="right" src="https://img.shields.io/github/followers/abrahambisrat?label=Follow&style=social" />
 <h1 align="center"></h1>
 <div>
 <!--   <p align="center">  -->
