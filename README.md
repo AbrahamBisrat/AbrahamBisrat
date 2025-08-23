@@ -1,7 +1,9 @@
 ### Hi there 👋
   
+<!--
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=abrahambisrat.abrahambisrat" />
 <img align="right" src="https://img.shields.io/github/followers/abrahambisrat?label=Follow&style=social" />
+-->
 <h1 align="center"></h1>
 <div>
 <!--   <p align="center">  -->
